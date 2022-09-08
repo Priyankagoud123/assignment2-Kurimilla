@@ -17,3 +17,12 @@ Barcelona Airport
 - StreakHouses
 
 [AboutMeFile](AboutMe.md)
+- - -
+# Famous Cities in UK
+The below table tells the famous location in UK.
+| City | Location | Time Period |
+| --- | --- | --- |
+| London | Tower Bridge | 2 hours |
+| Edinburgh | Palace of holy house | 3 hours |
+| Manchester | Old Trafford | 4hours |
+| Birmingham | Victorious Square | 1.5 hours|
