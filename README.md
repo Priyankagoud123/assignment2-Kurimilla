@@ -26,3 +26,13 @@ The below table tells the famous location in UK.
 | Edinburgh | Palace of holy house | 3 hours |
 | Manchester | Old Trafford | 4hours |
 | Birmingham | Victorious Square | 1.5 hours|
+- - -
+# Quotes
+>  Life is what happens when you’re busy making other plans. *---John Lennon*
+
+> When the going gets tough, the tough get going. *---Joe Kennedy*
+
+
+
+
+
